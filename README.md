@@ -1,1 +1,3 @@
 # bashscripts
+
+## scripts to practice
